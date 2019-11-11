@@ -11,7 +11,7 @@ The functionality of this project is to get us ready to be employee competitive 
 Link to github page: https://ductran963.github.io/updatedPorfolio/
 
 Updated Portfolio image:
-![image info](./assets/images/updatedPortfolio)
+![image info](./assets/images/updatedPortfolio.png)
 
 
 
