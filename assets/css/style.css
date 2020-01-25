@@ -42,7 +42,7 @@ body{
     background-color: #ffffff;
     top: 8px;
     margin-left: 256px;
-    height: 65rem;
+    height: 80rem;
     position: relative;
 }
 .bodyC{
@@ -466,6 +466,19 @@ a, p{
 .pImage5{
     position: absolute;
     top: 710px;
+    left: 41px;
+    height: 190px;
+}
+#thumbnail5{
+    position: absolute;
+    top: 938px;
+    left: 26px;
+    height: 190px;
+    width: 100%;
+}
+.pImage6{
+    position: absolute;
+    top: 938px;
     left: 41px;
     height: 190px;
 }
